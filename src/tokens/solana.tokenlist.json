@@ -181,6 +181,22 @@
     },
     {
       "chainId": 101,
+      "address": "7QKhKEnUwx6icJotjh9qtC61EK9WpiXNrmMTPQw8AgSj",
+      "symbol": "Face",
+      "name": "Face",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SBPToken/token-list/main/assets/mainnet/7QKhKEnUwx6icJotjh9qtC61EK9WpiXNrmMTPQw8AgSj/logo.png",
+      "tags": [
+        "utility-token",
+        "stake-pool-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/longfacepunkz"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "HfYFjMKNZygfMC8LsQ8LtpPsPxEJoXJx4M6tqi75Hajo",
       "symbol": "CWAR",
       "name": "Cryowar Token",
